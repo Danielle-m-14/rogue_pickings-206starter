@@ -170,8 +170,8 @@ footer span {
 	border-top: none;
 }
 
-.section-one 
-.section-two
+.section-one, 
+.section-two,
 .section-three {
 	flex-basis: 30%;
 	border-top: none;
